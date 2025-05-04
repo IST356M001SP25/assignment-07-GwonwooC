@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+Through this assignment, I was able to experience firsthand the practical difficulties of web scraping. At first, I was confused because only 108 menu items were extracted, but later I realized that I had not used the archive.org link provided by the professor and was accessing the original Tully’s website instead. The actual site was loading only part of the menu, and I wasted a considerable amount of time troubleshooting without realizing this. Additionally, the "code.menuitem is not a library" error that had been bothering me turned out to be caused by an incorrect import in my code. Initially, I thought it was an external library issue and spent time investigating, only to find that simply removing the incorrect code.menuitem reference fixed the issue. Through these mistakes, I learned that it’s not just about implementing functionality but also about being meticulous with debugging techniques.
